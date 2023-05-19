@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "428232631891",
+    "project_id": "carmanager-bffb2",
+    "storage_bucket": "carmanager-bffb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428232631891:android:410e9b53351446f65f48a6",
+        "android_client_info": {
+          "package_name": "com.example.carmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428232631891-rgm8btptougqlaqnbrer5nfsg22ptsh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDecnJbTAtpCOhCa6bOwngvgCXtr-UtkTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428232631891-rgm8btptougqlaqnbrer5nfsg22ptsh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
